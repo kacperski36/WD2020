@@ -1,4 +1,4 @@
-#Cwiczenie 1 Kacper Walczak
+
 #zad1
 from math import*
 print("Zad1")
